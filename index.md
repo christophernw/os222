@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By Christopher Nathanael Wijaya.</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Christopher Nathanael Wijaya</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
