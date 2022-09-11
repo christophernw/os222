@@ -1,18 +1,14 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Christopher Nathanael Wijaya</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
+[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/christophernw/os222.git)
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
-This is the way!
+OS 222
 <br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
