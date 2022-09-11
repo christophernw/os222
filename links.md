@@ -24,3 +24,5 @@ permalink: LINKS/
    Explains the definition of Hypervisor in under 5 minutes. At least it helps me to understand what a hypervisor is in a simple language
 3. [What is SSH](https://www.youtube.com/watch?v=qWKK_PNHnnA)<br>
    Introducing and visualising the definition and process of SSH. 
+4. [REGEX EXPRESSIONS](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+   Introduction about regex expressions for beginers.
