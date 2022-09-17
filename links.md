@@ -19,10 +19,23 @@ permalink: LINKS/
    
 ## Week 1
 1. [Virtual Machine Introduction](https://www.youtube.com/watch?v=mQP0wqNT_DI)<br>
-   Introduction about Virtual Machine and types of virtual machine. This is an nice to watch video with a great visual. It is good at least for me to know what is        VIrtual Machine
+   Introduction about Virtual Machine and types of virtual machine. This is an nice to watch video with a great visual. It is good at least for me to know what is Virtual Machine.
 2. [What is Hypervisor](https://www.youtube.com/watch?v=LMAEbB2a50M)<br>
-   Explains the definition of Hypervisor in under 5 minutes. At least it helps me to understand what a hypervisor is in a simple language
+   Explains the definition of Hypervisor in under 5 minutes. At least it helps me to understand what a hypervisor is in a simple language.
 3. [What is SSH](https://www.youtube.com/watch?v=qWKK_PNHnnA)<br>
    Introducing and visualising the definition and process of SSH. 
-4. [REGEX EXPRESSIONS](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+4. [REGEX EXPRESSIONS](https://www.youtube.com/watch?v=rhzKDrUiJVk)<br>
    Introduction about regex expressions for beginers.
+   
+## Week 2
+1. [Symmetric Encryption vs Asymmetric Encryption](https://blog.mailfence.com/symmetric-vs-asymmetric-encryption)<br>
+   This article gives us the explanation about the main differences between Symmetric encryption vs Asymmetric encrytion. We can also learn which type of encryption method to use.
+2. [System Security](https://www.geeksforgeeks.org/system-security/)<br>
+   Introduction of a simple definition and prequisites knowledges needed for System Security. We can gain a lot of usefull information from this good article.
+3. [Basic Network Attack](https://www.geeksforgeeks.org/basic-network-attacks-in-computer-network/)<br>
+   We can learn a lot of things form malwares to phising in this article. This article is usefull to learn about all the basic network attacks in computer network. 
+4. [What is Cryptography?](https://www.kaspersky.com/resource-center/definitions/what-is-cryptography)<br>
+   This article explains that Cryptography is the study of secure communications techniques that allow the sender and intended recipient of a message to view its content. We can learn more about Cryptography in this site.
+5. [Learn C-Language](https://www.programiz.com/c-programming)<br>
+   We can learn the basic and tutorial of C-Language in this site. It's very recommended for beginers to learn from this site.
+      
