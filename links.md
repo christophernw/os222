@@ -38,4 +38,16 @@ permalink: LINKS/
    This article explains that Cryptography is the study of secure communications techniques that allow the sender and intended recipient of a message to view its content. We can learn more about Cryptography in this site.
 5. [Learn C-Language](https://www.programiz.com/c-programming)<br>
    We can learn the basic and tutorial of C-Language in this site. It's very recommended for beginers to learn from this site.
-      
+
+## Week 3
+1. [The Linux Filesystem Explained](https://www.linux.com/training-tutorials/linux-filesystem-explained/)<br>
+   A filesystem or fs controls how data is stored and retrieved. Without a file system, data placed in a storage medium would be one large body of data with no way to tell where one piece of data stops and the next begins. Let's learn more about filesystem especially Linux on this article made by Linux itself!
+2. [Understanding Linux filesystem](https://opensource.com/article/18/4/ext4-filesystem)<br>
+   The majority of modern Linux distributions default to the ext4 filesystem, just as previous Linux distributions defaulted to ext3, ext2, and – if you go back far enough – ext. This article cover almost everything on filesystems and a very good pre-knowledge for us before continuing to our next learnings.
+3. [Mount and Unmount File System in Linux](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/)<br>
+   On Linux and UNIX operating systems, you can use the mount command to attach (mount) file systems and removable devices such as USB flash drives at a particular mount point in the directory tree. The unmount command detaches (unmounts) the mounted file system from the directory tree. In this tutorial, we will go over the basics of attaching and detaching various file systems using the mount and unmount commands. 
+4. [Unified Buffer Cache](http://www.mallorn.com/People/lindsey/test/c0504.htm)<br>
+   To increase file system performance, Digital implemented a Unified Buffer Cache (UBC) fully integrated with the file system that caches file system data and can grow or shrink upon demand. This short article gives quick explanation on what is UBC and what is the usage of UBC.
+5. [Free Space Management in Operating System](https://www.geeksforgeeks.org/free-space-management-in-operating-system/)<br>
+   The system keeps tracks of the free disk blocks for allocating space to files when they are created. Also, to reuse the space released from deleting the files, free space management becomes crucial. The system maintains a free space list which keeps track of the disk blocks that are not allocated to some file or directory. This GeeksforGeeks article covers what free space list can be implemented as.
+
