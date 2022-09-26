@@ -55,5 +55,5 @@ ZCZC W03 40 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 40 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W03 30 L45 TXT/SHA256SUM related.
 ZCZC W03 40 L80 Waching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W03 60 L88 Workout/Sport/Exercise/ETC.
+ZCZC W03 90 L88 Workout/Sport/Exercise/ETC.
 ZCZC W03 100 L99 Offline Lecture
