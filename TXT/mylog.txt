@@ -49,7 +49,7 @@ ZCZC W03 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend,
 ZCZC W03 60 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W03 30 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W03 30 L40 TXT/ related in general.
-ZCZC W03 30 L41 TXT/mylog.txt related.
+ZCZC W03 40 L41 TXT/mylog.txt related.
 ZCZC W03 30 L42 TXT/mypubkey.txt related. See also L27.
 ZCZC W03 40 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 40 L44 TXT/myscript.sh related. See also L25, L24.
