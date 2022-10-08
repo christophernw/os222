@@ -62,3 +62,20 @@ permalink: LINKS/
    Linking and Binding are two very similar functions. This simple answer to a stackoverflow question answers it all!
 5. [Memory Management in Operating System](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
    Memory management in the functionality of an operating system which handles or manages primary memory and moves processes back and forth between main memory and disk during execution. This tutorial will teach you basic concepts related to <strong><i>Memory Management</i></strong>.
+
+## Week 4
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+   **Virtual Memory** is a storage allocation scheme in which secondary memory can be addressed as though it were part of main memory. GeekForGeeks sums up pretty much everything there's to know about virtual memory! let's take a look!
+2. [Cache Memory](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
+   **Cache Memory** is a special very high-speed memory. It is used to speed up and synchronizing with high-speed CPU. Let's learn about Cache Memory on this article!
+3. [Memory System Performance](https://www.sciencedirect.com/topics/computer-science/memory-system-performance)<br>
+   We have read everything about memory system. Let's finish it up with learning its performance!
+4. [Demand Paging](https://www.javatpoint.com/os-demand-paging)<br>
+   In order to utilize memory well, OS decides which pages need to be kept in the main memory and which need to be kept in the secondary memory. This concept is called **Demand Paging**!
+5. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+   In operating system that uses paging for memory management, a page replacement algorithm is needed to decide which page needs to be replaced when new page comes in. GeekforGeeks once again came to the rescue with this very concise article!
+6. [Allocation of Frames](https://www.geeksforgeeks.org/operating-system-allocation-frames/)<br>
+   An important aspect of operating systems, virtual memory is implemented using demand paging. Demand paging necessitates the development of a page-replacement algorithm and a **frame allocation algorithm**.
+7. [Techniques to handle Thrashing](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/)<br>
+   **Thrashing** is a condition or a situation when the system is spending a major portion of its time in servicing the page faults, but the actual procssing done is very negligible. Turns out, thrashing isn't that one *thrashing* we thought...
+
