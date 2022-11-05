@@ -63,7 +63,7 @@ permalink: LINKS/
 5. [Memory Management in Operating System](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
    Memory management in the functionality of an operating system which handles or manages primary memory and moves processes back and forth between main memory and disk during execution. This tutorial will teach you basic concepts related to <strong><i>Memory Management</i></strong>.
 
-## Week 4
+## Week 5
 1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
    **Virtual Memory** is a storage allocation scheme in which secondary memory can be addressed as though it were part of main memory. GeekForGeeks sums up pretty much everything there's to know about virtual memory! let's take a look!
 2. [Cache Memory](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
@@ -78,4 +78,20 @@ permalink: LINKS/
    An important aspect of operating systems, virtual memory is implemented using demand paging. Demand paging necessitates the development of a page-replacement algorithm and a **frame allocation algorithm**.
 7. [Techniques to handle Thrashing](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/)<br>
    **Thrashing** is a condition or a situation when the system is spending a major portion of its time in servicing the page faults, but the actual procssing done is very negligible. Turns out, thrashing isn't that one *thrashing* we thought...
+
+## Week 6
+1. [States of a Process in Operating System](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems)<br>
+   The process, from its creation to completion, passes through various states. The minimum number of states is five. The names of the states are not stadardized although the process may be in one of the following stages during execution.
+2. [Process States](https://www.javatpoint.com/os-process-states)<br>
+   Following the last article, javapoint also made an awesome article explaining every process states. Let’s skim through it to get extra grasp on process states!
+3. [Threads, Processes, and Dispatching](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lecture.php?topic=thread)<br>
+   Stanford made a good article about Threads and Processes. Let’s take a quick read!
+4. [Context Switching & Dispatcher](https://youtu.be/YIMsIijWjQo)<br>
+   This lecture discuses about concepts of process management which covers all detailed concepts of the process management, process attributes, process operations, process state diagram, context switching, and more. Let’s learn all these concepts in detail by watching this short video!
+5. [Single Thread Vs. Multi Thread Perfomance](https://forums.anandtech.com/threads/single-thread-versus-multi-thread-performance.2384193)<br>
+   Both single thread and multi thread have their own pros and cons. Let’s read this informative forum to learn about them.
+6. [Multi-Threading Models](https://www.tutorialspoint.com/multi-threading-models)<br>
+   Multithreading allows the execution of multiple parts of a program at the same time. These parts are known as threads and are lightweight processes available within the process. Therefore, multithread leads to maximum utilization of the CPU by multitasking.
+7. [PThread Programming Tutorial](https://medium.com/adamedelwiess/operating-system-8-a-tutorial-for-the-pthread-programming-bf8004e36e70)<br>
+   Birrel’s paper talked about threads :in a general way. However, PThreads is a very concrete multithreading system and it is the default standard in the UNIX system. PThreads stands for POSIX threads, and POSIX means Portable Operating System Interface, which is a kind of interface that the operating system needs to support. Within POSIX, PThreads describes the threading APIs the operating system needs to support.
 
