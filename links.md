@@ -43,7 +43,7 @@ permalink: LINKS/
 1. [The Linux Filesystem Explained](https://www.linux.com/training-tutorials/linux-filesystem-explained/)<br>
    A filesystem or fs controls how data is stored and retrieved. Without a file system, data placed in a storage medium would be one large body of data with no way to tell where one piece of data stops and the next begins. Let's learn more about filesystem especially Linux on this article made by Linux itself!
 2. [Understanding Linux filesystem](https://opensource.com/article/18/4/ext4-filesystem)<br>
-   The majority of modern Linux distributions default to the ext4 filesystem, just as previous Linux distributions defaulted to ext3, ext2, and – if you go back far enough – ext. This article cover almost everything on filesystems and a very good pre-knowledge for us before continuing to our next learnings.
+   The majority of modern Linux distributions default to the ext4 filesystem, just as previous Linux distributions defaulted to ext3, ext2, and � if you go back far enough � ext. This article cover almost everything on filesystems and a very good pre-knowledge for us before continuing to our next learnings.
 3. [Mount and Unmount File System in Linux](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/)<br>
    On Linux and UNIX operating systems, you can use the mount command to attach (mount) file systems and removable devices such as USB flash drives at a particular mount point in the directory tree. The unmount command detaches (unmounts) the mounted file system from the directory tree. In this tutorial, we will go over the basics of attaching and detaching various file systems using the mount and unmount commands. 
 4. [Unified Buffer Cache](http://www.mallorn.com/People/lindsey/test/c0504.htm)<br>
@@ -95,3 +95,18 @@ permalink: LINKS/
 7. [PThread Programming Tutorial](https://medium.com/adamedelwiess/operating-system-8-a-tutorial-for-the-pthread-programming-bf8004e36e70)<br>
    Birrel’s paper talked about threads :in a general way. However, PThreads is a very concrete multithreading system and it is the default standard in the UNIX system. PThreads stands for POSIX threads, and POSIX means Portable Operating System Interface, which is a kind of interface that the operating system needs to support. Within POSIX, PThreads describes the threading APIs the operating system needs to support.
 
+## Week 7
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+   This short tutorial covered the concept of **Process Synchronization** in an operating system. Process Synchronization was introduced to handle problems that arose while multiple process executions.
+2. [Introduction to Deadlocks in Operating System](https://www.studytonight.com/operating-system/deadlocks)<br>
+   Deadlocks are a set of blocked processes each holding a resource and waiting to acquire a resource held by another process. Let's read more about deadlocks on this well-written article!
+3. [Deadlock Prevention in Operating System](https://www.studytonight.com/operating-system/deadlock-prevention-in-operating-system)<br>
+   This tutorial elaborates the deadlock prevention approach. Let's take a quick look.
+4. [Deadlock Avoidance in Operating System](https://www.studytonight.com/operating-system/deadlock-avoidance-in-operating-system)<br>
+   This tutorial covers deadlock avoidance in the operating system. The deadlock avoidance method is used by the operating system in order to check whether the system is in a safe state or in a unsafe state and in order to avoid the deadlocks.
+5. [Classical Probelms of Synchronization](https://www.studytonight.com/operating-system/classical-problems-of-synchronization)<br>
+   We will find out about the various classical problems of process synchronization on this awesomely curated article. Semaphore can be used in other synchronization problems besides Mutual Exclusion.
+6. [Peterson's Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)<br>
+   Peterson's Algorithm is used to synchronize two processes. It uses two variable, a bool array flag of size 2 and an int variable turn to accomplish it.
+7. [Critical Selection in Synchronization](https://www.geeksforgeeks.org/g-fact-70/)<br>
+   When more than one processes access a same code segment that segment is known as **critical section**. Critical section contains shared variables or resources which are needed to be synchronized to maintain consistency of data variable.
