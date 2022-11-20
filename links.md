@@ -110,3 +110,19 @@ permalink: LINKS/
    Peterson's Algorithm is used to synchronize two processes. It uses two variable, a bool array flag of size 2 and an int variable turn to accomplish it.
 7. [Critical Selection in Synchronization](https://www.geeksforgeeks.org/g-fact-70/)<br>
    When more than one processes access a same code segment that segment is known as **critical section**. Critical section contains shared variables or resources which are needed to be synchronized to maintain consistency of data variable.
+
+## Week 8
+1. [Difference Between Preemptive and Non-Preemptive Scheduling in OS](https://techdifferences.com/difference-between-preemptive-and-non-preemptive-scheduling-in-os.html)<br>
+   The basic difference between preemptive and non-preemptive scheduling is that in preemptive scheduling the CPU is allocated to the processes for the limited time. While in Non-preemptive scheduling, the CPU is allocated to the process till it terminates or switches to waiting state.
+2. [More on Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)<br>
+   Following the last number, GeekforGeeks also made a conncise article about scheduling! Let's take a quick read!
+3. [Scheduling Policies for Operating System](https://study.com/academy/lesson/scheduling-policies-for-operating-systems-importance-criteria.html)<br>
+   There are several criteria for invoking the best scheduling policies for a system. This site tells us about those policies.
+4. [CPU Scheduling Algorithms in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
+   CPU Scheduling is a process of determining which process will own CPU for execution while another process is on hold. The main task of CPU scheduling is to make sure that whenever the CPU remains idle, the OS at least select one of the processes available in the ready queue for execution. The selection process will be carried out by the CPU scheduler. It selects one of the processes in memory that are ready for execution.
+5. [Processes and Threads](https://www.d.umn.edu/~gshute/os/processes-and-threads.html)<br>
+   A process is an instance of program execution. This means, for example, that if you open up two browser windows then you have two processes, even though they are running the same program. Let's take a look!
+6. [Difference between Process and Threads](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+   As usual, GeekforGeeks makes an awesome article about Process and Threads. Let's take a look!
+7. [Threads and its types in Operating System](https://www.geeksforgeeks.org/threads-and-its-types-in-operating-system/)<br>
+   Thread is a single sequence stream within a process. Threads have same properties as of the process so they are called as light weight processes. Threads are executed one after another but gives the illusion as if they are executing in parallel.
